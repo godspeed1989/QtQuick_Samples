@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Widgets1.qml</file>
+        <file>Widgets2.qml</file>
+        <file>Widgets3.qml</file>
+    </qresource>
+</RCC>
